@@ -4,7 +4,7 @@
 ### *I will code for at least an hour every day for the next 100 days.*
 
 #### Start Date
-Jan 1st, 2018
+2nd January, 2018
 
 ## Additional Rules
 1. If I code at work, that time won't count towards the challenge.
