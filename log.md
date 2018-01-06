@@ -15,3 +15,11 @@
 **Thoughts:** I'm still a bit confused with all the position and display settings. I should probably review them before continuing.
 
 **Link to work:** [My First Site and other Coursera Web Dev](https://github.com/TGlide/Coursera-Web-Development-JHU)
+
+### Day 2: Jan 6th, 2018
+
+**Today's Progress:** Created a navbar for my site
+
+**Thoughts** I was able to clear a lot of misinformation and doubts I had on positioning, and vertical aligning with top and transform proved to be really useful!
+
+**Link to work:** [My First Site and other Coursera Web Dev](https://github.com/TGlide/Coursera-Web-Development-JHU)
