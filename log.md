@@ -23,3 +23,11 @@
 **Thoughts** I was able to clear a lot of misinformation and doubts I had on positioning, and vertical aligning with top and transform proved to be really useful!
 
 **Link to work:** [My First Site and other Coursera Web Dev](https://github.com/TGlide/Coursera-Web-Development-JHU)
+
+### Day 3: Jan 8th, 2018
+
+**Today's Progress:** Implemented small media queries and navbar overflow on site
+
+**Thoughts** Dynamic webpages don't seem so distant now, but they sure seem like a piece of work. Really fun though.
+
+**Link to work:** [My First Site and other Coursera Web Dev](https://github.com/TGlide/Coursera-Web-Development-JHU)
