@@ -31,3 +31,12 @@
 **Thoughts** Dynamic webpages don't seem so distant now, but they sure seem like a piece of work. Really fun though.
 
 **Link to work:** [My First Site and other Coursera Web Dev](https://github.com/TGlide/Coursera-Web-Development-JHU)
+
+### Day 4: Jan 9th, 2018
+
+**Today's Progress:** Added image overlays and grid system using html to the site
+
+**Thoughts** The overlay and grid are simple to implement, but add a real nice touch to the overall design! Really loving it.
+
+**Link to work:** [My First Site and other Coursera Web Dev](https://github.com/TGlide/Coursera-Web-Development-JHU)
+
