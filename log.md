@@ -47,3 +47,11 @@
 **Thoughts** I didn't really get much work done actually, but have an interesting idea
 
 **Link to work:** [My First Site and other Coursera Web Dev](https://github.com/TGlide/Coursera-Web-Development-JHU)
+
+### Day 6: Jan 12, 2018
+
+**Today's Progress:** More design implementations
+
+**Thoughts:** I think I'm focusing too much on design. I'll get back to coding progresses, working on beautifying the site later on.
+
+**Link to work:** [My First Site and other Coursera Web Dev](https://github.com/TGlide/Coursera-Web-Development-JHU)
