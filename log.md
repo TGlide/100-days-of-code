@@ -55,3 +55,9 @@
 **Thoughts:** I think I'm focusing too much on design. I'll get back to coding progresses, working on beautifying the site later on.
 
 **Link to work:** [My First Site and other Coursera Web Dev](https://github.com/TGlide/Coursera-Web-Development-JHU)
+
+### Day 7: Jan 14, 2018
+
+**Today's Progress:** Started looking at some bootstrap
+
+**Thoughts:** Using a framework sure does have it's advantages
