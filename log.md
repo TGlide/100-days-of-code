@@ -61,3 +61,13 @@
 **Today's Progress:** Started looking at some bootstrap
 
 **Thoughts:** Using a framework sure does have it's advantages
+
+### Day 8: Jan 18, 2018
+
+Missed some days I shouldn't have..
+
+**Today's Progress:** Changing structure of page, finished CSS course
+
+**Thoughts:** CSS Is a real pain :)
+
+**Link to work:** [My First Site and other Coursera Web Dev](https://github.com/TGlide/Coursera-Web-Development-JHU)
