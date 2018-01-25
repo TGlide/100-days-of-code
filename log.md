@@ -71,3 +71,13 @@ Missed some days I shouldn't have..
 **Thoughts:** CSS Is a real pain :)
 
 **Link to work:** [My First Site and other Coursera Web Dev](https://github.com/TGlide/Coursera-Web-Development-JHU)
+
+### Day 9: Jan 25, 2018
+
+Sorry :c
+
+**Today's Progress:** Changing structure of page, applied bootstrap and finally implemented a good big stock image, that auto-centers meaning it's responsive to everything-a-majing, including my 21:9 desktop.
+
+**Thoughts:** The site is looking preeeetty 
+
+**Link to work:** [My First Site and other Coursera Web Dev](https://github.com/TGlide/Coursera-Web-Development-JHU)
