@@ -81,3 +81,11 @@ Sorry :c
 **Thoughts:** The site is looking preeeetty 
 
 **Link to work:** [My First Site and other Coursera Web Dev](https://github.com/TGlide/Coursera-Web-Development-JHU)
+
+### Day 10: Jan 28, 2018
+
+**Today's Progress:** Started messing with the project's grid using CSS, so I can add some description and fancier animation.
+
+**Thoughts:** CSS hurt my feelings
+
+**Link to work:** [My First Site and other Coursera Web Dev](https://github.com/TGlide/Coursera-Web-Development-JHU)
