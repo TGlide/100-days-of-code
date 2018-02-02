@@ -89,3 +89,11 @@ Sorry :c
 **Thoughts:** CSS hurt my feelings
 
 **Link to work:** [My First Site and other Coursera Web Dev](https://github.com/TGlide/Coursera-Web-Development-JHU)
+
+### Day 11: Jan 31, 2018
+
+**Today's Progress:** Made a python automation script
+
+**Thoughts:** Python is a really versatile language.
+
+**PS** Gonna take a break from the challenge, since I want to enjoy the holidays. Since next month I'm starting college, I'll take back the challenge there!
