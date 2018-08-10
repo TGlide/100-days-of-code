@@ -97,3 +97,14 @@ Sorry :c
 **Thoughts:** Python is a really versatile language.
 
 **PS** Gonna take a break from the challenge, since I want to enjoy the holidays. Since next month I'm starting college, I'll take back the challenge there!
+
+
+
+## NEW 100 DAYS START
+### Since I took a long hiatus I'm taking this challenge back to day 0.
+
+### Day 0: Aug 09, 2018
+
+**Today's Progress:** Started recreating snake using Javascript
+
+**Thoughts:** The programming logic really changes in the context of making games!
