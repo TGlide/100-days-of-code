@@ -105,6 +105,12 @@ Sorry :c
 
 ### Day 0: Aug 09, 2018
 
-**Today's Progress:** Started recreating snake using Javascript
+**Today's Progress:** Started recreating snake using Javascript. Implemented basic movement, growing and eating fruits.
 
 **Thoughts:** The programming logic really changes in the context of making games!
+
+### Day 1: Aug 11, 2018
+
+**Today's Progress:** Continued snake js. Implemented pausing and dyinggggg
+
+**Thoughts:** Thinking ahead really goes a long way in building code. It can avoid a lot of hassle and rewriting. I think I'm going to do a more planned approach for future projects!
