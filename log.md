@@ -114,3 +114,10 @@ Sorry :c
 **Today's Progress:** Continued snake js. Implemented pausing and dyinggggg
 
 **Thoughts:** Thinking ahead really goes a long way in building code. It can avoid a lot of hassle and rewriting. I think I'm going to do a more planned approach for future projects!
+
+
+### Day 2: Aug 12, 2018
+
+**Today's Progress:** More snake js! Fixed wonky controls and being able to go back, which also caused sudden death.
+
+**Thoughts:** Implementing controls in games can be a much more complicated process than imagined. In order to provide a seamless experience, the programmer needs to do soemthing more than simply listening to the input. I also understood why some games implement buffering in their games, and I'm thinking of maybe implementing it, albeit with some restrictions.
