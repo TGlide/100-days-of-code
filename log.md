@@ -127,3 +127,9 @@ Sorry :c
 **Thoughts:** Implementing controls in games can be a much more complicated process than imagined. In order to provide a seamless experience, the programmer needs to do soemthing more than simply listening to the input. I also understood why some games implement buffering in their games, and I'm thinking of maybe implementing it, albeit with some restrictions.
 
 **Link to work:** https://github.com/TGlide/Snake-JS-Port
+
+### Day 3: Aug 13, 2018
+
+**Today's Progress:** Tried learning some Django!
+
+**Thoughts:** This framework has so many features. It seems amazing.
