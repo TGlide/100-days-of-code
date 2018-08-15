@@ -133,3 +133,9 @@ Sorry :c
 **Today's Progress:** Tried learning some Django!
 
 **Thoughts:** This framework has so many features. It seems amazing.
+
+### Day 4: Aug 14, 2018
+
+**Today's Progress:** Messed around with some more Django.
+
+**Thoughts:** Making small progress, gonna try to progress more next time.
