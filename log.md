@@ -139,3 +139,10 @@ Sorry :c
 **Today's Progress:** Messed around with some more Django.
 
 **Thoughts:** Making small progress, gonna try to progress more next time.
+
+
+### Day 5: Aug 17, 2018
+
+**Today's Progress:** Did some exercises using C at college and after-hours.
+
+**Thoughts:** C is complicated as all hell.
