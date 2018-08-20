@@ -146,3 +146,9 @@ Sorry :c
 **Today's Progress:** Did some exercises using C at college and after-hours.
 
 **Thoughts:** C is complicated as all hell.
+
+### Day 6: Aug 19, 2018
+
+**Today's Progress:** More Django! I've decided to try and use my controller and create into a page... It worked! I managed to make a submit form to execute a python function, that lets me use volume up and down on my PC, and others, remotely (from the same wifi)!
+
+**Thoughts:** Python is bliss as all heaven.
