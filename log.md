@@ -152,3 +152,9 @@ Sorry :c
 **Today's Progress:** More Django! I've decided to try and use my controller and create into a page... It worked! I managed to make a submit form to execute a python function, that lets me use volume up and down on my PC, and others, remotely (from the same wifi)!
 
 **Thoughts:** Python is bliss as all heaven.
+
+### Day 6: Aug 20, 2018
+
+**Today's Progress:** Made a script to help me at a game called Word Connect. Basically I generate all possible combinations given the letters, and compare it to the dictionary to see if it's a valid word. Pretty fun and simple!
+
+**Thoughts:** Python is bliss as all heaven. Really.
