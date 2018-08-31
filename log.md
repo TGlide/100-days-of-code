@@ -158,3 +158,17 @@ Sorry :c
 **Today's Progress:** Made a script to help me at a game called Word Connect. Basically I generate all possible combinations given the letters, and compare it to the dictionary to see if it's a valid word. Pretty fun and simple!
 
 **Thoughts:** Python is bliss as all heaven. Really.
+
+### Day 7 : Aug 30, 2018
+
+Forgot to update stuff, oh well
+
+**Today's Progress:** Started making a script to filter rides from ride-sharing whatsapp group to college. The objective is to make it so I can pass this list on to all the groups, so that no matter which group you're on, you'll be able to see what's on the other groups.
+
+**Thoughts:** Python is cool as always!
+
+### Day 8 : Aug 31, 2018
+
+**Today's Progress:** Messed with PPlay, a Pygame wrapper my college made, and started working on movement for the game we have to make as part of the subject.
+
+**Thoughts:** Managing animations and sprites is hard, but really fulfilling!
